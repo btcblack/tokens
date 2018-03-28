@@ -1,0 +1,33 @@
+{
+  "symbol": "BLACK",
+  "address": "0xf7ae0daa230bf3fb3c0e5e01e7a6e0a142c6cf7e",
+  "decimals": "18",
+  "name": "Bitcoin Black",
+  "ens_address": "",
+  "website": "https://btcblack.org",
+  "logo": {
+    "src": "https://btcblack.org/wp-content/uploads/2018/02/cropped-BitcoinBlack-e1519762978975.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@btcblack.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@bitcoinblack",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/btcblack",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/BTCBlackDotOrg",
+    "youtube": ""
+  }
+}
